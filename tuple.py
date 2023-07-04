@@ -11,7 +11,7 @@ tuple = (1, 'iki', 3)
 # print(len(list))
 
 list = ['ali', 'veli']
-tuple = ('damla', 'ayşe')
+tuple = ('damla', 'ayşe') #
 
 list[0] = 'ahmet'
 # tuple[0] = 'deniz'  bu dizi çalışmaz çünkü tuple da elemanlar değiştirelemaz sabit.
